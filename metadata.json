@@ -1,0 +1,5 @@
+{
+  "name": "InkFlow - Zen Calligraphy Board",
+  "description": "A high-performance digital whiteboard featuring velocity-sensitive strokes with a realistic 'Bi-feng' (calligraphy) effect. Built with React, TypeScript, and a custom geometry engine for smooth rendering.",
+  "requestFramePermissions": []
+}
